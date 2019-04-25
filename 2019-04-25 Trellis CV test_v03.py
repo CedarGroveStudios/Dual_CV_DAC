@@ -1,4 +1,4 @@
-# 2018-12-20 Trellis CV test_v01.py
+# 2019-04-25 Trellis CV test_v03.py
 # Based on John Park's classic MIDI example
 
 import board
