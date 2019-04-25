@@ -42,7 +42,7 @@ end_note = 67
 
 # CV voltage output
 low_out = 960  # for lowest note; actual voltage is 5v*(960/4096) = 1.17v
-interval_out = 51.2  # interval value; voltage is 5v*(51.2/4096) = 12.5mv
+interval_out = 51.2  # interval value; voltage is 5v*(51.2/4096) = 62.5mv
 high_out = low_out + (interval_out * (end_note - start_note + 1))
 
 current_press = set()
