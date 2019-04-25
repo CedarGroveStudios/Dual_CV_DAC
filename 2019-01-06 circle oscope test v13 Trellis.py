@@ -1,6 +1,5 @@
 # 2019-01-06 circle oscope test v13 Trellis.py
 # oscilloscope x-y graphics test
-#
 # 2019 Cedar Grove Studios
 
 # ### Setup ###
