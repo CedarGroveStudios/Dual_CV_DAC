@@ -1,7 +1,6 @@
 # 2018-12-18 dual DAC CV test v02.py
-# 
-# 2018-12-18 test of Stemma dual DAC  -- Cedar Grove Studios
-#
+# basic CV/Gate test of Stemma dual DAC using accelerometer
+# Cedar Grove Studios
 
 import board
 import busio
