@@ -1,6 +1,5 @@
 # 2019-01-07 selfie oscope test v13 Trellis.py
 # oscilloscope x-y graphics test
-#
 # 2019 Cedar Grove Studios
 # from Cedar Grove's CircuitPython StringCar Racer project
 # adapted for John Park's workshop 3/29/2018 pan/tilt project
